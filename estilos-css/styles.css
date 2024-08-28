@@ -70,14 +70,6 @@ body{
     width: 42.5rem;
 }
 
-/* .conteudo__interno__quadro{
-    background-color: var(--cor-quintenaria);
-    
-    border-radius: 24px;
-    height: 600px;
-    width: fit-content;
-} */
-
 .conteudo__interno__entrada{
     width: 42.5rem;
     border: 0,375rem solid var(--cor-quaternaria);
@@ -233,28 +225,3 @@ footer{
     font-size: 1.875rem;
     font-weight: 900;
 }
-
-/*
-
-.conteudo__interno__botao{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 680px;
-    gap: 24px;
-}
-
-.conteudo__interno__botao__aviso{
-    
-}
-
-
-.conteudo__interno__botao__criptografar{
-    
-}
-
-.conteudo__interno__botao__descriptografar{
-    
-}
-
-*/
