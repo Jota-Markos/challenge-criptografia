@@ -194,7 +194,7 @@ body{
 
 }
 
-.conteudo__interno__estilo__copia{
+.conteudo__externo__estilo__copia{
     background-color: var(--cor-quintenaria);
     color: var(--cor-quaternaria);
     border: 0.25rem solid var(--cor-primaria);
@@ -205,7 +205,7 @@ body{
     width: 18.75rem;
 }
 
-.conteudo__interno__estilo__copia:hover{
+.conteudo__externo__estilo__copia:hover{
     background-color: var(--cor-primaria);
     color: var(--cor-quintenaria);
     border-color: var(--cor-quintenaria);
